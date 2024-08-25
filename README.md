@@ -1,0 +1,1 @@
+We developed an app for a line-following robot that leverages the mobile camera and sends the data to Arduino using OpenCV programming. This app is a real-time project that operates without the need for sensors and utilizes Java, OpenCV, and Arduino code.
